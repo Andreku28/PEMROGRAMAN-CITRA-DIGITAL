@@ -1,0 +1,123 @@
+Nama : 
+NPM : 
+
+Soal Pilihan Ganda (single/jomblo choice)
+
+1. Soal :Sebuah citra digital berukuran 400 x 600 pixel. Pixel-pixel di dalam citra
+memiliki derajat keabuan dari 0 sampai 31. Berapa bit yang dibutuhkan
+untuk merepresentasikan citra digital tersebut?
+a.960.000 bit
+b.1.200.000 bit
+c.1.800.000 bit
+d.2.400.000 bit
+e.1.920.000 bit
+
+Jawaban :B. 1.200.000 bit
+
+2. Soal :Jenis teks yang dapat diberi opsi format dan dapat diedit dalam blok yang besar pada
+CorelDraw adalah.
+a.paragraph text 
+b.artistic text
+c.grafik text
+d.bitmap vektor
+e.a,b,c,dan d Salah
+
+Jawaban : A.paragraph text
+
+3. Soal :Operasi pengolahan citra yang termasuk ke dalam operasi komputasi
+pada aras (level) titik adalah, kecuali
+Mark only one oval
+a.membuat citra negatif
+b.image filtering dengan high-pass filter
+c.image brigthening
+d.transformasi log
+e.konversi citra berwarna menjadi citra grayscale
+Jawaban :B.image filtering dengan high-pass filter
+
+4. Soal :Contrast streching termasuk ke dalam operasi komputasi pada aras\
+Mark only one oval.
+a.titik
+b.lokal
+c.global
+d.objek
+e.campuran aras titik dan aras lokal
+Jawaban :A. titik
+
+5. Soal :Cukup dinamis, sirkulasi ruang gerak cukup dan memiliki kesan pandangan terarah
+merupakan karakteristik format tata letak
+a.Format 7 
+b.Format C
+c.Format Z
+d.Format L
+e.Format y
+Jawaban :D.Format L
+
+Soal Pilihan Ganda (playboy/selingkuh/istri 4/multiple choice)
+
+6. Soal :Mana yang merupakan penapis lolos-rendah?
+Mark only one oval.
+a.[-1 -1 -1; -1 9 -1; -1 -1 -1]
+b.[0 -1 0; -1 5 -1; 0 -1 0]
+c. 1/9[1 1 1; 1 1 1; 1 1 1]
+d.1/16[1 2 1; 2 4 2; 1 2 1]
+e.C dan D benar
+
+Jawaban : E.C dan D benar 
+
+7. Soal :Untuk mendapatkan citra yang blur (kabur), maka penapis dalam ranah
+frekuensi yang dapat digunakan adalah.
+Mark only one oval.
+a.Ideal lowpass filter
+b.Gaussian lowpass filter
+c.Butterworth lowpass filter
+d.Gaussian highpass filter
+e.A, B, dan C benar
+
+Jawaban : E. A, B, dan C benar
+
+8. Soal :Misalkan f(x,y) dan h(x,y) adalah sinyal dalam ranah spasial, F(u,v) dan
+H(u,v) adalah sinyal dalam ranah frekuensi, maka pernyataan yang benar
+adalah
+Mark only one oval.
+a.g(x,y) = h(x,y)*f(x,y) <---> G(u,v) = H(u,v)F(u,v)
+b.g(x,y) = h(x,y)f(x,y) <--> G(u,v) = H(u,v) * F(u,v
+c.g(x,y) = h(x,y)*f(x,y) <---> G(u,v) = H(u,v)* F(u,v)
+d.g(x,y) = h(x,y) + f(x,y) <---> G(u,v) = H(u,v) + F(u,v)
+e.A dan B benar
+Jawaban : E.A dan B benar
+
+9. Soal : Nilai keabuan dalam biner yang dimiliki citra hitam putih dapat berupa
+a.0
+b.1
+c.2
+d.3
+e.A dan B benar
+Jawaban : E. A dan B benar
+
+10. Soal :Sebutkan komponen warna yang dapat menghasilkan gradasi ungu
+a.Merah
+b.Biru
+c.Hijau
+d.Kuning
+e.A dan B benar
+Jawaban : E. A dan B benar
+
+
+11. Soal :Citra Vektor merupakan gambar digital yang terdiri dari penggabungan Garis dan vektor 
+Jawaban :Benar/Salah ( Benar )
+
+12. Soal :Macromedia Fireworks merupakan aplikasi desain grafis yang di khususkan untuk website 
+Jawaban :Benar/Salah (Benar)
+
+13. Soal :Gambar yang dipresentasikan dengan kurva dan garis yang didefinisikan dalam
+persamaan matematis disebut Vektor
+Jawaban :Benar/Salah (Benar)
+
+14. Soal :Berikut ini yang merupakan implementasi jenis gambar yang sesuai diproses dengan
+citra vektor ialah digunakan untuk undangan pernikahan
+Jawaban :Benar/Salah (Salah)
+
+15. Soal :Format file .SVG merupakan salah satu format file yang paling sesuai untuk Bitmap 
+Jawaban :Benar/Salah (Salah)
+
+
